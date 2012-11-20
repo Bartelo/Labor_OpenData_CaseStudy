@@ -14,13 +14,13 @@ Mike Pulsifer (pulsifer.michael@dol.gov)
 Executive Summary
 -----------------
 
-The U.S. Department of Labor sought to go beyond merely making data available to developers and take ease of use of the data to the next level by giving developers tools that would make using DOL’s data easier. The target audience was not just experienced developers, but even those who may be just starting how with a how-to book and a great idea. The developer should not necessarily know what JSON or XML are.
+The U.S. Department of Labor sought to go beyond merely making data available to developers and take ease of use of the data to the next level by giving developers tools that would make using DOL’s data easier. The target audience was not just experienced developers, but even those who may be just starting out with a how-to book and a great idea. The developer should not necessarily know what JSON or XML are.
 
 This requirement led DOL to create software development kits (SDKs), which are downloadable code packages that developers can drop into their apps, making access to DOL’s data easy for even the most novice developer. Not content with just providing the tools, DOL provides sample projects that the developers can use to help them get started even quicker. These SDKs have even been published as open source projects with the aim of speeding up their conversion to SDKs that will eventually support all federal APIs.
 
 Challenge
 ---------
-Data.gov has been a tremendous asset to who wish to download government datasets, large and small. Experts on the data can extract a wealth of data from one or more dataset and publish their findings for everyone else to consume. However, it’s those large datasets that can pose a particular challenge for developers of mobile apps.
+Data.gov has been a tremendous asset to those who wish to download government datasets, large and small. Experts on the data can extract a wealth of data from one or more dataset and publish their findings for everyone else to consume. However, it’s those large datasets that can pose a particular challenge for developers of mobile apps.
 
 ![image](http://project-open-data.github.com/Labor_OpenData_CaseStudy/images/image2.png)
 
